@@ -59,6 +59,7 @@
     width:100vw;
     background-color: rgb(180, 180, 180);
     margin-bottom: 15px;
+    cursor: pointer;
 }
 
 .nearbyPostcodePostcode, .nearbyPostcodeCountry, .nearbyPostcodeRegion{
